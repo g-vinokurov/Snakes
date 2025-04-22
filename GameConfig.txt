@@ -1,0 +1,6 @@
+{
+  "width": 16,
+  "height": 16,
+  "food_static": 10,
+  "state_delay_ms": 500
+}
